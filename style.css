@@ -46,12 +46,10 @@ footer {
 	background: grey;
 }
 footer p {
-	float: left;
-	width: 1250px;
+	width: 800px;
 	margin: 50px;
 }
 .logo-reseaux {
-	float: left;
-	width: 200px;
+	width: 400px;
 	margin: 40px;
 }
