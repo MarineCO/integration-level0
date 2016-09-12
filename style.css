@@ -1,0 +1,57 @@
+header {
+	text-align: center;
+	height: 200px;
+	background: grey;
+}
+header img {
+	float: left;
+}
+.menu {
+	display: inline-block;
+	width: 75%;
+	margin-top: 70px;
+}
+.button1 {
+	font-size: 40px;
+	margin: 100px;
+}
+.button2{
+	font-size: 40px;
+	margin: 80px;
+}
+.button3 {
+	font-size: 40px;
+	margin: 100px;
+}
+.content {
+	margin: 0 auto;
+	width: 600px;
+	text-align: center;
+}
+.content p {
+	text-align: justify;
+}
+.content img {
+	margin-top: 30px;
+}
+h2 {
+	font-size: 18px;
+	color: #A593E0;
+}
+footer {
+	display: inline-flex;
+	text-align: center;
+	height: 125px;
+	width: 1507px;
+	background: grey;
+}
+footer p {
+	float: left;
+	width: 1250px;
+	margin: 50px;
+}
+.logo-reseaux {
+	float: left;
+	width: 200px;
+	margin: 40px;
+}
